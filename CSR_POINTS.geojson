@@ -65,9 +65,9 @@
 { "type": "Feature", "properties": { "NAME": "CC_ROAD_AT_SCHOOL_PARA", "State": "Chattisgarh", "Block": "Dantewada", "Village": "Nerli" }, "geometry": { "type": "Point", "coordinates": [ 81.264983514855999, 18.72580006252862 ] } },
 { "type": "Feature", "properties": { "NAME": "COMMUNITY_HALL_AT_KOTWAR_PARA", "State": "Chattisgarh", "Block": "Dantewada", "Village": "Nerli" }, "geometry": { "type": "Point", "coordinates": [ 81.262966319873527, 18.725854909712677 ] } },
 { "type": "Feature", "properties": { "NAME": null, "State": null, "Block": null, "Village": null }, "geometry": null },
-{ "type": "Feature", "properties": { "NAME": "CC ROAD_AT_SARPANCH_PARA", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.315388514005505, 18.605451671612254 ] } },
-{ "type": "Feature", "properties": { "NAME": "Anganwadi_Centre_KitchenShed_Patel Para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.312650574048405, 18.606647466210497 ] } },
-{ "type": "Feature", "properties": { "NAME": "Kitchen_and_ Store_Vichha Para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.305386927148845, 18.6036587213503 ] } },
-{ "type": "Feature", "properties": { "NAME": "Indian_Overseas_Bank_cum_Communityhall_Patel para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.313975105506472, 18.60583537602631 ] } }
+{ "type": "Feature", "properties": { "NAME": "CC_ROAD_AT_SARPANCH_PARA", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.315388514005505, 18.605451671612254 ] } },
+{ "type": "Feature", "properties": { "NAME": "Anganwadi_Centre_KitchenShed_Patel_Para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.312650574048405, 18.606647466210497 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kitchen_and_ Store_Vichha_Para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.305386927148845, 18.6036587213503 ] } },
+{ "type": "Feature", "properties": { "NAME": "Indian_Overseas_Bank_cum_Communityhall_Patel_para", "State": "Chattisgarh", "Block": "Kuakonda", "Village": "Samalwar" }, "geometry": { "type": "Point", "coordinates": [ 81.313975105506472, 18.60583537602631 ] } }
 ]
 }
